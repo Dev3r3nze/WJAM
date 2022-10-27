@@ -1,5 +1,5 @@
 # WJAM
-### JAM de verano para los DAWers y DAMers de MEDAC
+### JAM de verano para DAWers y DAMers de MEDAC
 --------------------------------------------------
 
 JAM celebrada en verano, idea del admin del servidor de DAM y gestionado por los admins como yo. En tería participaban 
